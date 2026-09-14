@@ -72,19 +72,19 @@
 #
 ## 5 기술 스택
 
-도구                                 용도
-Android Studio	                      안드로이드 앱 빌드/에뮬레이터 실행/Compose 미리보기
-VS Code                              백엔드 코드 작성, 문서 작업
-Claude (Claude Code / Claude AI)     코드 작성·수정, 기획 문서화
+| 도구 | 용도 |
+|------|------|
+| Android Studio | 안드로이드 앱 빌드/에뮬레이터 실행/Compose 미리보기 |
+| VS Code | 백엔드 코드 작성, 문서 작업 |
+| Claude (Claude Code / Claude AI) | 코드 작성·수정, 기획 문서화 |
 
-VS Code 확장 프로그램
-
-Python
-Kotlin Language
-Docker
-Claude Code
-Thunder Client
-Markdown All in One
+### VS Code 확장 프로그램
+- Python
+- Kotlin Language
+- Docker
+- Claude Code
+- Thunder Client
+- Markdown All in One
 
 #
 ## 9 팀원 및 역할
